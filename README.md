@@ -68,6 +68,7 @@ foodhub-data-analysis-eda/
 - **Low‑code analytical workflows**
 
 **📄 Project Report**
+
 The full FoodHub analysis report includes:
 - Executive Summary
 - Business Problem & Solution Approach
