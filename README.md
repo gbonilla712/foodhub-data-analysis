@@ -1,4 +1,4 @@
-# FoodHub Order Data Analysis Project
+# FoodHub Order Analysis Project
 
 This repository contains a full exploratory data analysis (EDA) and business insights report for the **FoodHub Low‑Code Project**, completed as part of the **MIT Applied AI & Data Science Program**. The project analyzes customer behavior, restaurant performance, operational efficiency, and revenue patterns using a dataset of **1,898 food delivery orders** from New York City.
 
