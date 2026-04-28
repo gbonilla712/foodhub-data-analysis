@@ -68,7 +68,7 @@ foodhub-order-analysis/
 - **Low‑code analytical workflows**
 
 ## 📄 Project Report
-The full project report (`GBonilla FoodHub Order Analysis Low Code Report.pdf`) includes:
+The full project report (`GBonilla_FoodHub_Order_Analysis_Low_Code_Report.pdf`) includes:
 - **Executive Summary**
 - **Business Problem and Solution Approach**
 - **Data Overview**
