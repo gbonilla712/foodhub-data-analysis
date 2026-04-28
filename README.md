@@ -52,11 +52,11 @@ The goal is to identify **actionable insights** to improve customer satisfaction
 
 ## 🗂 Project Structure
 ```plaintext
-foodhub-data-analysis/
+foodhub-order-analysis/
 │
-├── GBonilla FoodHub Project Low Code Methodology and Workflow.pdf     # Detailed methodology + workflow document
-├── GBonilla FoodHub Project Low Code Report.pdf     # Full project report
-├── GBonilla_FoodHub_Project_Low_Code.ipynb   # Solution deliverable
+├── GBonilla FoodHub Order Analysis Low Code Methodology and Workflow.pdf     # Detailed methodology + workflow document
+├── GBonilla FoodHub Order Analysis Low Code Report.pdf     # Full project report
+├── GBonilla_FoodHub_Order_Analysis_Low_Code.ipynb   # Solution deliverable
 │
 └── README.md                                # Project overview and documentation
 ```
@@ -68,7 +68,7 @@ foodhub-data-analysis/
 - **Low‑code analytical workflows**
 
 ## 📄 Project Report
-The full project report (`GBonilla FoodHub Project Low Code Report.pdf`) includes:
+The full project report (`GBonilla FoodHub Order Analysis Low Code Report.pdf`) includes:
 - **Executive Summary**
 - **Business Problem and Solution Approach**
 - **Data Overview**
